@@ -1,4 +1,4 @@
-# Windows _popen parsing bug by katahiromz
+# Windows _popen bug found by @katahiromz
 
 The following code works:
 
